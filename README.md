@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an NLP task: Clause Identification from contract documents<br>👯 I’m looking to collaborate on full stack software/machine learning projects<br>🤝 I’m looking for help with DevOps tasks<br>🌱 I’m currently learning Rust and PHP <br>💬 Ask me about Machine learning techniques, be it NLP, CV and classical ML techniques<br>⚡ I am lazy but smart and read technique book/blog post a lot
+🔭 I’m currently working on an NLP task: Clause Identification from contract documents<br>👯 I’m looking to collaborate on full stack software/machine learning projects<br>🤝 I’m looking for help with DevOps tasks<br>🌱 I’m currently learning Rust and PHP <br>💬 Ask me about Machine learning techniques, be it NLP, CV and classical ML techniques<br>⚡ I am smart and read technique book/blog post a lot
 
 
 
